@@ -131,7 +131,7 @@ here we are saying its int - 4 bytes (note this might be diff depending on platf
 so for our array we need total 4*4 = 16 bytes. 
 
 
-now open [hello.s](https://github.com/Pavan-Nambi/Gate-2025/CS/DSA/hello.s) file.
+now open [hello.s](https://github.com/Pavan-Nambi/Gate-2025/blob/main/CS/DSA/hello.s)) file.
 
 
 ignore everything and lets just look at our array assignment stuff
@@ -180,7 +180,7 @@ and 24-16 is alrdy 0 as we first made it 0... makes sense?
 okay fuck so now we kn this is ACTUALLY FUCKING CONTIGUOUS IN MEMORY TOO right? not just listening to someone but we actually saw its contigous/continous whatever shit it is.
 
 
-and if u look at [hello.s](https://github.com/Pavan-Nambi/Gate-2025/CS/DSA/hello.s) file again
+and if u look at [hello.s](https://github.com/Pavan-Nambi/Gate-2025/blob/main/CS/DSA/hello.s) file again
 we see something like `pushq`????? 
 so we r pushing it to a goddamn stack??? 
 if size n all is knwn its pushed to a call stack else to a memory heap ok
@@ -208,7 +208,7 @@ lets just think abt our earlier code whole thing is in stack..? but y? coz we ne
 
 moral: its better to be dumass sometimes..
 
-for stack implementation see [stack.c](https://github.com/Pavan-Nambi/Gate-2025/CS/DSA/stack.c)
+for stack implementation see [stack.c](https://github.com/Pavan-Nambi/Gate-2025/blob/main/CS/DSA/stack.c)
 
 
 ain't writting abt assembly here coz its long n i m lazy n by nw u shud get basic idea n u can look into it urself.
