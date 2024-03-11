@@ -97,7 +97,7 @@ int main() {
                 if (pop(&stack, &value) == EXIT_SUCCESS)
                     printf("Pooped : %d\n", value);
                 else
-                    printf("Failed to pop. Stack may be empty.\n");
+                    printf("pop poop ntg to poop.\n");
                 break;
             case 3:
                 if (peek(&stack, &value) == EXIT_SUCCESS)

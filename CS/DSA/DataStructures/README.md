@@ -212,3 +212,28 @@ for stack implementation see [stack.c](https://github.com/Pavan-Nambi/Gate-2025/
 
 
 ain't writting abt assembly here coz its long n i m lazy n by nw u shud get basic idea n u can look into it urself.
+
+## Queue
+
+so heyy here we go again anthr data structure... 
+
+u kn what? i m tired why anthr one??? why the fck do we even need this???
+
+hm well u kn.. my lappy is getting bit laggy these days.. like tiny teeny lil bit laggy but laggy yeah...
+
+but i m an asshole ain't i? even when its lagging or getting stuck, i kept clicking things.. i kept clicking to open new chrome or terminal or whatever shit 
+
+
+suprisingly aftr some time these things got opened in same order... aint tht sooo cooollll???? yeah.. right? so lets think abt this.. hw can we get this functionality????? well so in simple sentence - we want whatever first got clicked to be first clicked.. well basic common sense right?
+so our principle here is FIRST IN FIRST OUT (FIFO)
+
+wait... i cant really think of places i would need this , aint this time waste to learn this? 
+
+ahh.. sure.. , btw.. currently u r typing right? if u typed "a" first in ur keyboard "a" is first one getting printed on display.. even when ur laptop got stuck..
+if u typed "u fking asshole" it gets print on same order no...? unless key stroke isnt recognised... yeah.. say it come on say it... first in first fuck outtttt
+
+sooo yeah dumasss tht can be a queue tooooo fuck yeah
+
+for queue implementation see [queue.c](https://github.com/Pavan-Nambi/Gate-2025/blob/main/CS/DSA/queue.c)
+
+obviously no assembly again if interested look for urself but its preetty obvious at this point if u looked abt array assembly clearlyyy
